@@ -6,7 +6,7 @@ When using a bridge (like a discord bridge), other services may send over the br
 
 ## Installation
 - **Make sure bs4 is installed in your python environment.**
-- build the plugin using mbc and add it in the Maubot Manager. (Prepackaged version coming soon!)
+- build the plugin using mbc, or use prepackaged version in releases section, and add it in the Maubot Manager.
 
 ### Thanks
 [Youtube preview plugin that some of this project was based on](https://github.com/ggogel/YoutubePreviewMaubot)
