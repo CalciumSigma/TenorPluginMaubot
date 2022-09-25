@@ -1,10 +1,7 @@
-from ast import parse
+import re
 from typing import Type
 from bs4 import BeautifulSoup
-import urllib.parse, re, json
-from urllib import request
 from urllib.request import urlopen
-import urllib.error
 from mautrix.types import ImageInfo, EventType, MessageType
 from mautrix.util.config import BaseProxyConfig, ConfigUpdateHelper
 from maubot import Plugin, MessageEvent
